@@ -13,7 +13,7 @@ This project shows how to interface an **NTC thermistor** with an ESP32 using a 
 ## 🔗 Simulation Link
 
 Try it on Wokwi:  
-https://wokwi.com/projects/430551749637553793
+https://wokwi.com/projects/430583777158914049
 
 ## 🚀 Getting Started
 
